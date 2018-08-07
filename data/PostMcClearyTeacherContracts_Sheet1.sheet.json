@@ -1,0 +1,1791 @@
+[
+  {
+    "district": "Aberdeen School District",
+    "GEOID": 5300030,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Adna School District",
+    "GEOID": 5300060,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Almira School District",
+    "GEOID": 5300090,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Anacortes School District",
+    "GEOID": 5300150,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Arlington School District",
+    "GEOID": 5300240,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Asotin-Anatone School District",
+    "GEOID": 5300280,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Auburn School District",
+    "GEOID": 5300300,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Bainbridge Island School District",
+    "GEOID": 5300330,
+    "Old-starting-salary": "$45,237",
+    "pChangeMin": "-1.00",
+    "Old-maximum-salary": "$85,264",
+    "pChangeMax": "-100.00%",
+    "Total-cost": "$3.38 million (not including benefit costs)",
+    "Link to teachers contract": "https://www.boarddocs.com/wa/bisd/Board.nsf/goto?open&id=B26LF64E6CCB"
+  },
+  {
+    "district": "Battle Ground School District",
+    "GEOID": 5300380,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Bellevue School District",
+    "GEOID": 5300390,
+    "Old-starting-salary": "$49,703",
+    "New-starting salary": "$53,300",
+    "pChangeMin": 0.07,
+    "Old-maximum-salary": "$97,548",
+    "New-max-salary": "$111,092",
+    "pChangeMax": "13.88%",
+    "Total-cost": "$23 million",
+    "Other provisions": "Bellevue teachers receive an additional $2,000 as compensation for incorporating technology into their daily lessons.",
+    "Link to teachers contract": "http://www.bellevueea.org/cba-documents/"
+  },
+  {
+    "district": "Bellingham School District",
+    "GEOID": 5300420,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Benge School District",
+    "GEOID": 5300450,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Bethel School District",
+    "GEOID": 5300480,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Bickleton School District",
+    "GEOID": 5300510,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Blaine School District",
+    "GEOID": 5300570,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Boistfort School District",
+    "GEOID": 5300630,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Bremerton School District",
+    "GEOID": 5300660,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Brewster School District",
+    "GEOID": 5300690,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Bridgeport School District",
+    "GEOID": 5300720,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Brinnon School District",
+    "GEOID": 5300750,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Burlington-Edison School District",
+    "GEOID": 5300780,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Camas School District",
+    "GEOID": 5300810,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Cape Flattery School District",
+    "GEOID": 5300840,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Carbonado School District",
+    "GEOID": 5300870,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Cascade School District",
+    "GEOID": 5300950,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Cashmere School District",
+    "GEOID": 5300960,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Castle Rock School District",
+    "GEOID": 5300990,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!",
+    "Link to teachers contract": "http://www.crschools.org/district/human-resources"
+  },
+  {
+    "district": "Centerville School District",
+    "GEOID": 5301050,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Central Kitsap School District",
+    "GEOID": 5301080,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Central Valley School District",
+    "GEOID": 5301110,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Centralia School District",
+    "GEOID": 5301140,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Chehalis School District",
+    "GEOID": 5301170,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Cheney School District",
+    "GEOID": 5301230,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Chewelah School District",
+    "GEOID": 5301260,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Chimacum School District",
+    "GEOID": 5301290,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Clarkston School District",
+    "GEOID": 5301320,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Cle Elum-Roslyn School District",
+    "GEOID": 5301350,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Clover Park School District",
+    "GEOID": 5301410,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Colfax School District",
+    "GEOID": 5301440,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "College Place School District",
+    "GEOID": 5301470,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Colton School District",
+    "GEOID": 5301500,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Columbia School District",
+    "GEOID": 5301560,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Columbia School District (Walla Walla)",
+    "GEOID": 5301590,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Colville School District",
+    "GEOID": 5301630,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Concrete School District",
+    "GEOID": 5301660,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Conway School District",
+    "GEOID": 5301680,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Cosmopolis School District",
+    "GEOID": 5301710,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Coulee-Hartline School District",
+    "GEOID": 5303440,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Coupeville School District",
+    "GEOID": 5301800,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Crescent School District",
+    "GEOID": 5301830,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Creston School District",
+    "GEOID": 5301860,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Curlew School District",
+    "GEOID": 5301890,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Cusick School District",
+    "GEOID": 5301920,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Damman School District",
+    "GEOID": 5301950,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Darrington School District",
+    "GEOID": 5301980,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Davenport School District",
+    "GEOID": 5302010,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Dayton School District",
+    "GEOID": 5302040,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Deer Park School District",
+    "GEOID": 5302070,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Dieringer School District",
+    "GEOID": 5302130,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Dixie School District",
+    "GEOID": 5302160,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "East Valley School District (Spokane)",
+    "GEOID": 5302280,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "East Valley School District (Yakima)",
+    "GEOID": 5305370,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Eastmont School District",
+    "GEOID": 5302310,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Easton School District",
+    "GEOID": 5302340,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Eatonville School District",
+    "GEOID": 5302370,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Edmonds School District",
+    "GEOID": 5302400,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Ellensburg School District",
+    "GEOID": 5302460,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Elma School District",
+    "GEOID": 5302490,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Endicott School District",
+    "GEOID": 5302520,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Entiat School District",
+    "GEOID": 5302550,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Enumclaw School District",
+    "GEOID": 5300001,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Ephrata School District",
+    "GEOID": 5302610,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Evaline School District",
+    "GEOID": 5302640,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Everett School District",
+    "GEOID": 5302670,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Evergreen School District (Clark)",
+    "GEOID": 5302700,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Evergreen School District (Stevens)",
+    "GEOID": 5302730,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Federal Way School District",
+    "GEOID": 5302820,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Ferndale School District",
+    "GEOID": 5302850,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Fife Public Schools",
+    "GEOID": 5302880,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Finley School District",
+    "GEOID": 5302910,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Franklin Pierce School District",
+    "GEOID": 5302940,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Freeman School District",
+    "GEOID": 5302970,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Garfield School District",
+    "GEOID": 5303000,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Glenwood School District",
+    "GEOID": 5303030,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Goldendale School District",
+    "GEOID": 5303090,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Grand Coulee Dam School District",
+    "GEOID": 5303130,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Grandview School District",
+    "GEOID": 5303150,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Granger School District",
+    "GEOID": 5303180,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Granite Falls School District",
+    "GEOID": 5303210,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Grapeview School District",
+    "GEOID": 5303240,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Great Northern School District",
+    "GEOID": 5303270,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Green Mountain School District",
+    "GEOID": 5303300,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Griffin School District",
+    "GEOID": 5303330,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Harrington School District",
+    "GEOID": 5303360,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Highland School District",
+    "GEOID": 5303510,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Highline School District",
+    "GEOID": 5303540,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Hockinson School District",
+    "GEOID": 5303570,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Hood Canal School District",
+    "GEOID": 5303600,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Hoquiam School District",
+    "GEOID": 5303660,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Inchelium School District",
+    "GEOID": 5300002,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Index School District",
+    "GEOID": 5303720,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Issaquah School District",
+    "GEOID": 5303750,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kahlotus School District",
+    "GEOID": 5303780,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kalama School District",
+    "GEOID": 5303810,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Keller School District",
+    "GEOID": 5303870,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kelso School District",
+    "GEOID": 5300003,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kennewick School District",
+    "GEOID": 5303930,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kent School District",
+    "GEOID": 5303960,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kettle Falls School District",
+    "GEOID": 5303990,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kiona-Benton School District",
+    "GEOID": 5304020,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Kittitas School District",
+    "GEOID": 5304050,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Klickitat School District",
+    "GEOID": 5304080,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "La Center School District",
+    "GEOID": 5304170,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "La Conner School District",
+    "GEOID": 5304110,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "LaCrosse School District",
+    "GEOID": 5304150,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lake Chelan School District",
+    "GEOID": 5301200,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lake Quinault School District",
+    "GEOID": 5307050,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lake Stevens School District",
+    "GEOID": 5304200,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lake Washington School District",
+    "GEOID": 5304230,
+    "Old-starting-salary": "$51,426",
+    "New-starting salary": "$55,699",
+    "pChangeMin": 0.08,
+    "Old-maximum-salary": "$98,050",
+    "New-max-salary": "$112,957",
+    "pChangeMax": "15.20%",
+    "Other provisions": "After 21 years and 25 years of experience in the classroom, Lake Washington teachers receive a $1,000 and $5,000 retention bonus, respectively"
+  },
+  {
+    "district": "Lakewood School District",
+    "GEOID": 5304260,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lamont School District",
+    "GEOID": 5304290,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Liberty School District",
+    "GEOID": 5304380,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lind School District",
+    "GEOID": 5304410,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Longview Public Schools",
+    "GEOID": 5304470,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Loon Lake School District",
+    "GEOID": 5304500,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lopez School District",
+    "GEOID": 5304530,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lyle School District",
+    "GEOID": 5304590,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Lynden School District",
+    "GEOID": 5304620,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mabton School District",
+    "GEOID": 5304650,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mansfield School District",
+    "GEOID": 5304710,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Manson School District",
+    "GEOID": 5304740,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mary M. Knight School District",
+    "GEOID": 5304800,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mary Walker School District",
+    "GEOID": 5304830,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Marysville School District",
+    "GEOID": 5304860,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "McCleary School District",
+    "GEOID": 5304890,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mead School District",
+    "GEOID": 5304920,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Medical Lake School District",
+    "GEOID": 5304950,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mercer Island School District",
+    "GEOID": 5304980,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Meridian School District",
+    "GEOID": 5305010,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Methow Valley School District",
+    "GEOID": 5305020,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mill A School District",
+    "GEOID": 5305040,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Monroe School District",
+    "GEOID": 5305130,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Montesano School District",
+    "GEOID": 5305160,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Morton School District",
+    "GEOID": 5305190,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Moses Lake School District",
+    "GEOID": 5305220,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mossyrock School District",
+    "GEOID": 5305250,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mount Adams School District",
+    "GEOID": 5305280,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mount Baker School District",
+    "GEOID": 5305310,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mount Pleasant School District",
+    "GEOID": 5305340,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mount Vernon School District",
+    "GEOID": 5305400,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Mukilteo School District",
+    "GEOID": 5305430,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Naches Valley School District",
+    "GEOID": 5305460,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Napavine School District",
+    "GEOID": 5305490,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Naselle-Grays River Valley School District",
+    "GEOID": 5305520,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Nespelem School District",
+    "GEOID": 5305550,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Newport School District",
+    "GEOID": 5305610,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Nine Mile Falls School District",
+    "GEOID": 5305640,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Nooksack Valley School District",
+    "GEOID": 5305670,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "North Beach School District",
+    "GEOID": 5305700,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "North Franklin School District",
+    "GEOID": 5305730,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "North Kitsap School District",
+    "GEOID": 5305760,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "North Mason School District",
+    "GEOID": 5305790,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "North River School District",
+    "GEOID": 5305820,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "North Thurston Public Schools",
+    "GEOID": 5305850,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!",
+    "Link to teachers contract": "No website"
+  },
+  {
+    "district": "Northport School District",
+    "GEOID": 5305880,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Northshore School District",
+    "GEOID": 5305910,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Oak Harbor School District",
+    "GEOID": 5305940,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Oakesdale School District",
+    "GEOID": 5305970,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Oakville School District",
+    "GEOID": 5306000,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Ocean Beach School District",
+    "GEOID": 5306060,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!",
+    "Link to teachers contract": "Requested"
+  },
+  {
+    "district": "Ocosta School District",
+    "GEOID": 5306090,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Odessa School District",
+    "GEOID": 5306120,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Okanogan School District",
+    "GEOID": 5306150,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Olympia School District",
+    "GEOID": 5306180,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Omak School District",
+    "GEOID": 5306220,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Onalaska School District",
+    "GEOID": 5306240,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Onion Creek School District",
+    "GEOID": 5306270,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Orcas Island School District",
+    "GEOID": 5306300,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Orchard Prairie School District",
+    "GEOID": 5306330,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Orient School District",
+    "GEOID": 5306360,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Orondo School District",
+    "GEOID": 5306390,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Oroville School District",
+    "GEOID": 5306420,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Orting School District",
+    "GEOID": 5306450,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Othello School District",
+    "GEOID": 5306480,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Palisades School District",
+    "GEOID": 5306510,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Palouse School District",
+    "GEOID": 5306540,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Pasco School District",
+    "GEOID": 5306570,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Pateros School District",
+    "GEOID": 5306600,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Paterson School District",
+    "GEOID": 5306630,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Pe Ell School District",
+    "GEOID": 5306660,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Peninsula School District",
+    "GEOID": 5306690,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Pioneer School District",
+    "GEOID": 5306750,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Pomeroy School District",
+    "GEOID": 5306780,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Port Angeles School District",
+    "GEOID": 5306820,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Port Townsend School District",
+    "GEOID": 5306840,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Prescott School District",
+    "GEOID": 5306870,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Prosser School District",
+    "GEOID": 5306900,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Pullman School District",
+    "GEOID": 5306930,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Puyallup School District",
+    "GEOID": 5306960,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Queets-Clearwater School District",
+    "GEOID": 5301380,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Quilcene School District",
+    "GEOID": 5306990,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Quillayute Valley School District",
+    "GEOID": 5307020,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Quincy School District",
+    "GEOID": 5307080,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Rainier School District",
+    "GEOID": 5307110,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Raymond School District",
+    "GEOID": 5307140,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Reardan-Edwall School District",
+    "GEOID": 5307210,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Renton School District",
+    "GEOID": 5307230,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Republic School District",
+    "GEOID": 5307260,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Richland School District",
+    "GEOID": 5307320,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Ridgefield School District",
+    "GEOID": 5307350,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Ritzville School District",
+    "GEOID": 5307380,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Riverside School District",
+    "GEOID": 5307440,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Riverview School District",
+    "GEOID": 5304560,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Rochester School District",
+    "GEOID": 5307470,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Roosevelt School District",
+    "GEOID": 5307530,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Rosalia School District",
+    "GEOID": 5307560,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Royal School District",
+    "GEOID": 5307620,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "San Juan Island School District",
+    "GEOID": 5307650,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Satsop School District",
+    "GEOID": 5307680,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Seattle School District",
+    "GEOID": 5307710,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Sedro-Woolley School District",
+    "GEOID": 5307740,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Selah School District",
+    "GEOID": 5307770,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Selkirk School District",
+    "GEOID": 5307800,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Sequim School District",
+    "GEOID": 5307830,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Shaw Island School District",
+    "GEOID": 5307860,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Shelton School District",
+    "GEOID": 5307900,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Shoreline School District",
+    "GEOID": 5307920,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Skamania School District",
+    "GEOID": 5307950,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Skykomish School District",
+    "GEOID": 5307980,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Snohomish School District",
+    "GEOID": 5308020,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Snoqualmie Valley School District",
+    "GEOID": 5308040,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Soap Lake School District",
+    "GEOID": 5308070,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "South Bend School District",
+    "GEOID": 5308100,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "South Kitsap School District",
+    "GEOID": 5308160,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "South Whidbey School District",
+    "GEOID": 5308190,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Southside School District",
+    "GEOID": 5308220,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Spokane Public Schools",
+    "GEOID": 5308250,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Sprague School District",
+    "GEOID": 5308280,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "St. John School District",
+    "GEOID": 5308310,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Stanwood-Camano School District",
+    "GEOID": 5308340,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Star School District",
+    "GEOID": 5308370,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Starbuck School District",
+    "GEOID": 5308400,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Stehekin School District",
+    "GEOID": 5308430,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Steilacoom Historical School District",
+    "GEOID": 5308460,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Steptoe School District",
+    "GEOID": 5308490,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Stevenson-Carson School District",
+    "GEOID": 5308520,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Sultan School District",
+    "GEOID": 5308550,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Summit Valley School District",
+    "GEOID": 5308580,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Sumner School District",
+    "GEOID": 5308610,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Sunnyside School District",
+    "GEOID": 5308670,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Tacoma Public Schools",
+    "GEOID": 5308700,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Taholah School District",
+    "GEOID": 5308730,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Tahoma School District",
+    "GEOID": 5308760,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Tekoa School District",
+    "GEOID": 5308790,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Tenino School District",
+    "GEOID": 5308820,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Thorp School District",
+    "GEOID": 5308850,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Toledo School District",
+    "GEOID": 5308910,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Tonasket School District",
+    "GEOID": 5308940,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Toppenish School District",
+    "GEOID": 5308970,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Touchet School District",
+    "GEOID": 5309000,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Toutle Lake School District",
+    "GEOID": 5309030,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Trout Lake School District",
+    "GEOID": 5309060,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Tukwila School District",
+    "GEOID": 5308130,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Tumwater School District",
+    "GEOID": 5309100,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Union Gap School District",
+    "GEOID": 5309150,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "University Place School District",
+    "GEOID": 5309180,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Valley School District",
+    "GEOID": 5309240,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Vancouver Public Schools",
+    "GEOID": 5309270,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Vashon Island School District",
+    "GEOID": 5309300,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wahkiakum School District",
+    "GEOID": 5309330,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wahluke School District",
+    "GEOID": 5309360,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Waitsburg School District",
+    "GEOID": 5309390,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Walla Walla School District",
+    "GEOID": 5309450,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wapato School District",
+    "GEOID": 5309480,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Warden School District",
+    "GEOID": 5309510,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Washougal School District",
+    "GEOID": 5309540,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Washtucna School District",
+    "GEOID": 5309570,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Waterville School District",
+    "GEOID": 5309600,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wellpinit School District",
+    "GEOID": 5309630,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wenatchee School District",
+    "GEOID": 5309660,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "West Valley School District",
+    "GEOID": 5309690,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "West Valley School District",
+    "GEOID": 5309720,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "White Pass School District",
+    "GEOID": 5309750,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "White River School District",
+    "GEOID": 5309780,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "White Salmon Valley School District",
+    "GEOID": 5309810,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wilbur School District",
+    "GEOID": 5309840,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Willapa Valley School District",
+    "GEOID": 5309870,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wilson Creek School District",
+    "GEOID": 5309900,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Winlock School District",
+    "GEOID": 5309930,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wishkah Valley School District",
+    "GEOID": 5309990,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Wishram School District",
+    "GEOID": 5310020,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Woodland School District",
+    "GEOID": 5310050,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Yakima School District",
+    "GEOID": 5310110,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Yelm Community Schools",
+    "GEOID": 5310140,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  },
+  {
+    "district": "Zillah School District",
+    "GEOID": 5310170,
+    "pChangeMin": "#DIV/0!",
+    "pChangeMax": "#DIV/0!"
+  }
+]
