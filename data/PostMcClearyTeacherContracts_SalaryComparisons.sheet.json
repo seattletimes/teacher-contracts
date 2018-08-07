@@ -38,17 +38,19 @@
   {
     "district": "Auburn School District",
     "GEOID": 5300300,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$48,898",
+    "pChangeMin": "-1.00",
+    "oldMax": "$93,168",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Bainbridge Island School District",
     "GEOID": 5300330,
-    "Old-starting-salary": "$45,237",
+    "oldStart": "$45,237",
     "pChangeMin": "-1.00",
-    "Old-maximum-salary": "$85,264",
-    "pChangeMax": "-100.00%",
-    "Total-cost": "$3.38 million (not including benefit costs)",
+    "oldMax": "$85,264",
+    "pChangeMax": "-1.00",
+    "totalCost": "$3.38 million (not including benefit costs)",
     "Link to teachers contract": "https://www.boarddocs.com/wa/bisd/Board.nsf/goto?open&id=B26LF64E6CCB"
   },
   {
@@ -60,13 +62,13 @@
   {
     "district": "Bellevue School District",
     "GEOID": 5300390,
-    "Old-starting-salary": "$49,703",
-    "New-starting salary": "$53,300",
+    "oldStart": "$49,703",
+    "newStart": "$53,300",
     "pChangeMin": 0.07,
-    "Old-maximum-salary": "$97,548",
-    "New-max-salary": "$111,092",
-    "pChangeMax": "13.88%",
-    "Total-cost": "$23 million",
+    "oldMax": "$97,548",
+    "newMax": "$111,092",
+    "pChangeMax": 0.14,
+    "totalCost": "$23 million",
     "Other provisions": "Bellevue teachers receive an additional $2,000 as compensation for incorporating technology into their daily lessons.",
     "Link to teachers contract": "http://www.bellevueea.org/cba-documents/"
   },
@@ -85,8 +87,10 @@
   {
     "district": "Bethel School District",
     "GEOID": 5300480,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$46,515",
+    "pChangeMin": 0.6,
+    "oldMax": "$91,554",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Bickleton School District",
@@ -404,8 +408,10 @@
   {
     "district": "Edmonds School District",
     "GEOID": 5302400,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$52,688",
+    "pChangeMin": "-1.00",
+    "oldMax": "$101,022",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Ellensburg School District",
@@ -458,8 +464,10 @@
   {
     "district": "Evergreen School District (Clark)",
     "GEOID": 5302700,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$44,756",
+    "pChangeMin": "-1.00",
+    "oldMax": "$84,359",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Evergreen School District (Stevens)",
@@ -470,8 +478,10 @@
   {
     "district": "Federal Way School District",
     "GEOID": 5302820,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$47,617",
+    "pChangeMin": "-1.00",
+    "oldMax": "$91,128",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Ferndale School District",
@@ -584,8 +594,10 @@
   {
     "district": "Highline School District",
     "GEOID": 5303540,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$49,888",
+    "pChangeMin": "-1.00",
+    "oldMax": "$97,030",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Hockinson School District",
@@ -620,8 +632,10 @@
   {
     "district": "Issaquah School District",
     "GEOID": 5303750,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$50,637",
+    "pChangeMin": "-1.00",
+    "oldMax": "$92,676",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Kahlotus School District",
@@ -650,14 +664,18 @@
   {
     "district": "Kennewick School District",
     "GEOID": 5303930,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$44,433",
+    "pChangeMin": "-1.00",
+    "oldMax": "$87,192",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Kent School District",
     "GEOID": 5303960,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$46,463",
+    "pChangeMin": "-1.00",
+    "oldMax": "$87,575",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Kettle Falls School District",
@@ -722,12 +740,12 @@
   {
     "district": "Lake Washington School District",
     "GEOID": 5304230,
-    "Old-starting-salary": "$51,426",
-    "New-starting salary": "$55,699",
+    "oldStart": "$51,426",
+    "newStart": "$55,699",
     "pChangeMin": 0.08,
-    "Old-maximum-salary": "$98,050",
-    "New-max-salary": "$112,957",
-    "pChangeMax": "15.20%",
+    "oldMax": "$98,050",
+    "newMax": "$112,957",
+    "pChangeMax": 0.15,
     "Other provisions": "After 21 years and 25 years of experience in the classroom, Lake Washington teachers receive a $1,000 and $5,000 retention bonus, respectively"
   },
   {
@@ -841,8 +859,10 @@
   {
     "district": "Mercer Island School District",
     "GEOID": 5304980,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$50,597",
+    "pChangeMin": "-1.00",
+    "oldMax": "$93,886",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Meridian School District",
@@ -919,8 +939,10 @@
   {
     "district": "Mukilteo School District",
     "GEOID": 5305430,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$51,856",
+    "pChangeMin": "-1.00",
+    "oldMax": "$99,949",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Naches Valley School District",
@@ -1010,8 +1032,10 @@
   {
     "district": "Northshore School District",
     "GEOID": 5305910,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$51,078",
+    "pChangeMin": "-1.00",
+    "oldMax": "$97,549",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Oak Harbor School District",
@@ -1137,8 +1161,10 @@
   {
     "district": "Pasco School District",
     "GEOID": 5306570,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$44,215",
+    "pChangeMin": "-1.00",
+    "oldMax": "$83,336",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Pateros School District",
@@ -1209,8 +1235,10 @@
   {
     "district": "Puyallup School District",
     "GEOID": 5306960,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$46,687",
+    "pChangeMin": "-1.00",
+    "oldMax": "$92,302",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Queets-Clearwater School District",
@@ -1257,8 +1285,10 @@
   {
     "district": "Renton School District",
     "GEOID": 5307230,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$50,026",
+    "pChangeMin": "-1.00",
+    "oldMax": "$94,292",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Republic School District",
@@ -1335,8 +1365,10 @@
   {
     "district": "Seattle School District",
     "GEOID": 5307710,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$51,063",
+    "pChangeMin": "-1.00",
+    "oldMax": "$99,873",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Sedro-Woolley School District",
@@ -1377,8 +1409,10 @@
   {
     "district": "Shoreline School District",
     "GEOID": 5307920,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$51,886",
+    "pChangeMin": "-1.00",
+    "oldMax": "$97,069",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Skamania School District",
@@ -1437,8 +1471,10 @@
   {
     "district": "Spokane Public Schools",
     "GEOID": 5308250,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$36,521",
+    "pChangeMin": "-1.00",
+    "oldMax": "$68,836",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Sprague School District",
@@ -1521,8 +1557,10 @@
   {
     "district": "Tacoma Public Schools",
     "GEOID": 5308700,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$45,500",
+    "pChangeMin": "-1.00",
+    "oldMax": "$90,928",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Taholah School District",
@@ -1593,8 +1631,10 @@
   {
     "district": "Tukwila School District",
     "GEOID": 5308130,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$50,359",
+    "pChangeMin": "-1.00",
+    "oldMax": "$85,691",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Tumwater School District",
@@ -1623,14 +1663,17 @@
   {
     "district": "Vancouver Public Schools",
     "GEOID": 5309270,
-    "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "oldStart": "$44,661",
+    "pChangeMin": "-1.00",
+    "oldMax": "$83,924",
+    "pChangeMax": "-1.00"
   },
   {
     "district": "Vashon Island School District",
     "GEOID": 5309300,
     "pChangeMin": "#DIV/0!",
-    "pChangeMax": "#DIV/0!"
+    "pChangeMax": "#DIV/0!",
+    "totalCost": "$550,000-$600,000"
   },
   {
     "district": "Wahkiakum School District",

@@ -17,7 +17,7 @@ xhr("./assets/schools.geo.json", function(err, data) {
 	var fillKey = function() {
 	};
 	fillKey();
-	
+
   var findDistrictData = function(geoid) {
     var districtData = allData.find(function(individualChange) {
       return individualChange.GEOID == geoid;
@@ -27,29 +27,29 @@ xhr("./assets/schools.geo.json", function(err, data) {
   }
   
   var paint = function(feature) {
-    var fillColor = "#00GG00";
+    var fillColor = "transparent";
 
     // GEOID == identifier for the disrict
     var districtData = findDistrictData(feature.properties.GEOID);
 
     if (districtData) {
       // District data will either be a number or undefined - if a number use it to color
-      var min = Number.parseFloat(districtData.pChangeMin);
+      var min = Number.parseFloat(districtData.pChangeMax);
 
       if (!isNaN(min)) {
-        fillColor = min <= 0 ? '#FFE353' :
-                    min <= .07 ? '#D38C40' :
-                    min <= .08 ? '#B1673B' :
-                    min <= .1 ? '#EDB646' :
-                    '#8A4734';
+        fillColor = min <= .05 ? '#F9EF55' :
+                    min <= .1 ? '#FFBA40' :
+                    min <= .15 ? '#F78B43' :
+                    min <= .2 ? '#D33A55' :
+                    '#AB1D34';
       }
     }
 
     return {
       fillColor,
       weight: 1,
-      color: "rgba(0, 0, 0, .8)",
-      fillOpacity: .7
+      color: "rgba(0, 0, 0, .3)",
+      fillOpacity: .8
     }
   };
 

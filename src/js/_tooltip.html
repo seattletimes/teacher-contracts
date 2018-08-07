@@ -1,5 +1,11 @@
-<h1>
-  <%= data.district %> - 
-  <%= data.pChangeMin %>
-</h1>
+<h4>
+  <%= data.district %>
+</h4>
+<div class ='address'><u> Maximum salary increase: <b><%= (data.pChangeMax * 100).toFixed(1) %>%</b></u></div>
+<div class ='address'> New maximum salary: <%= data.newMax %></div>
+<div class ='address'> Previous maximum salary: <%= data.oldMax %></div>
+<br>
+<div class ='address'><u> Minumum salary increase: <b><%= (data.pChangeMin * 100).toFixed(1) %>%</b></u></div>
+<div class ='address'> New minimum salary: <%= data.newMin %></div>
+<div class ='address'> Previous minimum salary: <%= data.oldMin %></div>
 </div>

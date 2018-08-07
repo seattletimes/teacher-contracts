@@ -27,34 +27,34 @@
         <div class="aspect-ratio-inner">
 
           <leaflet-map zoom=10>
-            <tile-layer layer="cartoPositron"></tile-layer>
+            <tile-layer layer="esriDarkGray"></tile-layer>
           </leaflet-map>
 
         </div>
         <aside class="legend">
-          <h1>Map legend</h1>
+          <h1>Maximum salary increased by</h1>
           <ul class="scale">
             <li>
-              <span class="block" style="background-color: red"></span> Cherry</li>
+              <span class="block" style="background-color: #F9EF55"></span> 0-5%</li>
             <li>
-              <span class="block" style="background-color: orange"></span> Orange</li>
+              <span class="block" style="background-color: #FFBA40"></span> 6-10%</li>
             <li>
-              <span class="block" style="background-color: yellow"></span> Lemon</li>
+              <span class="block" style="background-color: #F78B43"></span> 11-15%</li>
             <li>
-              <span class="block" style="background-color: green"></span> Lime</li>
+              <span class="block" style="background-color: #D33A55"></span> 15-20%</li>
             <li>
-              <span class="block" style="background-color: blue"></span> Blueberry</li>
+              <span class="block" style="background-color: #AB1D34"></span> 21% or more</li>
           </ul>
         </aside>
       </div>
 
 
       <div class="source">Source: Name of source
-        <span class="credit">XXX XXX / THE SEATTLE TIMES</div>
+        <span class="credit">Emily M. Eng / THE SEATTLE TIMES</div>
     </div>
   </responsive-child>
     <script>
-      window.allData = <%= JSON.stringify(json.PostMcClearyTeacherContracts_Sheet1) %>;
+      window.allData = <%= JSON.stringify(json.PostMcClearyTeacherContracts_SalaryComparisons) %>;
     </script>
 
   <script src="app.js"></script>
